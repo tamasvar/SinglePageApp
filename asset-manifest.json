@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tamasvar/SinglePageApp/static/css/main.5740cf87.css",
+    "main.js": "/tamasvar/SinglePageApp/static/js/main.6edd37e7.js",
+    "static/js/787.ca05ba49.chunk.js": "/tamasvar/SinglePageApp/static/js/787.ca05ba49.chunk.js",
+    "index.html": "/tamasvar/SinglePageApp/index.html",
+    "main.5740cf87.css.map": "/tamasvar/SinglePageApp/static/css/main.5740cf87.css.map",
+    "main.6edd37e7.js.map": "/tamasvar/SinglePageApp/static/js/main.6edd37e7.js.map",
+    "787.ca05ba49.chunk.js.map": "/tamasvar/SinglePageApp/static/js/787.ca05ba49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5740cf87.css",
+    "static/js/main.6edd37e7.js"
+  ]
+}
